@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5.1676mm" height="7.2347mm" version="1.1" viewBox="0 0 5.1676 7.2347" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-83.254 -137.31)">
+  <text transform="scale(.26458)" fill="#00c200" font-family="'Cascadia Code'" font-size="40px" style="line-height:1.25;shape-inside:url(#rect7976);white-space:pre" xml:space="preserve"/>
+  <text x="74.779099" y="139.6817" fill="#00c200" font-family="'Cascadia Code'" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="74.779099" y="139.6817" fill="#00c200" stroke-width=".26458"/></text>
+  <g stroke-width=".26458" aria-label="t">
+   <path d="m86.985 144.55q-1.2454 0-1.8035-0.51676-0.55294-0.51676-0.55294-1.6536v-0.93018h1.0955v0.8785q0 0.65112 0.31523 0.94568 0.32039 0.29455 1.049 0.29455 0.25838 0 0.54777-0.0258 0.28939-0.031 0.66146-0.0775l0.12402 0.96118q-0.36173 0.062-0.70796 0.093-0.34106 0.031-0.72864 0.031zm-2.3564-2.6872v-4.5475h1.0955v4.5475zm-1.3746-1.9947v-0.89917h4.9609v0.89917z" fill="#00c200"/>
+  </g>
+ </g>
+</svg>
