@@ -13,7 +13,6 @@ body {
 .hero {
     height: 100vh;
     width: 100vw;
-    margin: repeat(4, 0);
 }
 
 .hero-center {
