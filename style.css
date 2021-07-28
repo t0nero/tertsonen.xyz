@@ -45,3 +45,20 @@ body {
 a {
     color: rgb(0, 194, 0);
 }
+
+h1 {
+    font-size: 50px;
+}
+
+.links {
+    font-size: 20px;
+}
+
+@media (max-width: 715px) {
+    h1 {
+        font-size: 7vw;
+    }
+    .links {
+        font-size: 3.5vw;
+    }
+}
