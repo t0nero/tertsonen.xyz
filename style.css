@@ -2,7 +2,7 @@
     font-family: cascadia-code;
     src: url(fonts/CascadiaCode.woff2);
     font-weight: 200;
-    font-display: swap;
+    font-display: block;
 }
 
 body {
