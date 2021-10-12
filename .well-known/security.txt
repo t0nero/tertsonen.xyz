@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:toni@tertsonen.xyz
+Expires: 2023-03-15T22:00:00.000Z
+Encryption: https://tertsonen.xyz/pgp.asc
+Preferred-Languages: fi,en
+Canonical: https://tertsonen.xyz/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEY0ehuj9hPYUR8AfACH8o7F9BjqcFAmFfOLQACgkQCH8o7F9B
+jqeAuRAAhed2e4MeDA0qhfG4cbSkRapXwQPT8eW75tH/9YLdcY8dHQClfsOuiwE6
+d7gWPe9ZYrUPmiouboxwM/iyOH832J09i3S7nij6m8cNiMiKmyQ7hyUq5jZPLvZe
+YinXx1lvxgjG0xeE1BTo7pkPrLcIjNM6YfgrSmYmqvAKeT9/K9VGmzVcAxd8Onaf
+gPCD+mIXyetlgkysPXbuHlCp6uEGZNt+wn/Wdp1accTrOpwuIvqB0ZvuqidOMljZ
+yQGMUoi8tA+s+rtU/2r8nmNOa01lgVEDLaXd9uUTs+mWi9U8Fzopu/iIO8VzS31Q
+sHwJBVvD4vDnqMi/F8CQLULcuyBpXW9coGRvzHoNx8C9P3mXQrA/HewDEFcdrfJ7
+dBCLvdTtF7/SKfptHz4ayTYxFDOtBBH7Zg7LAa1PFbWMokdojIarKm8oC98UnvfR
+BOfxEDsmrYHIhcNHtl0WgjgAjzDp6Tgd415Yz8mOrQgZYMMYGeB7BjlIruX4H5yB
+oaSuqQnSjsUfWpkZdlZQnwssjn7OnKl2+kw4XujxBm+eMzjgp9RuLQURIi+95cwf
+n8plVHK7QBxnF8QZczEuy3Iceu/FdLjGfwirPDxlhZw26deuJvAXL7umUyb5iXU4
+QyypYTtzPuGtQTPjWzdfQBm9jqOwKCZC8eXsQakC9oUT6Ylqpdw=
+=KYUe
+-----END PGP SIGNATURE-----
